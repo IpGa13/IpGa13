@@ -2,7 +2,7 @@
 - 👀 I’m interested in GameDev
 - 🌱 I’m currently learning GameDev
 - 💞️ I’m looking to collaborate on GameDev
-- 📫 How to reach me : however
+- 📫 How to reach me : you cant
 
 <!---
 IpGa13/IpGa13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
