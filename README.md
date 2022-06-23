@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IpGa13
 - 👀 I’m interested in GameDev
 - 🌱 I’m currently learning GameDev
-- 💞️ I’m looking to collaborate on GameDev
+- 💞️ I’m looking to not collaborate
 - 📫 How to reach me : you cant
 
 <!---
